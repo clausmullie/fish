@@ -1148,7 +1148,7 @@ function preload() {
   globalSettings.soundOnImg = loadImage("assets/img/sound_on.png");
   globalSettings.powerup = loadImage("assets/img/powerup.png");
 
-  globalSettings.fish_images.push(loadImage("assets/img/jp.png"));
+  globalSettings.fish_images.push(loadImage("assets/img/enemy1.png"));
   globalSettings.fish_images.push(loadImage("assets/img/Alain.png"));
   globalSettings.fish_images.push(loadImage("assets/img/kurkdroog.png"));
   globalSettings.fish_images.push(loadImage("assets/img/Maggie.png"));
