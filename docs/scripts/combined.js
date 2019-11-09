@@ -898,9 +898,9 @@ function Info(gameState) {
   this.buttons.push(backBtn);
 
   this.text = [
-    "During their mating season, Jean-Pierre Van Rossems tend to become profoundly aggressive.",
-    "Use the arrow keys to navigate Fadry Fish trough",
-    "hordes of libidinous, corpulent, neanderthal-like ashtrays and remember:",
+    "Use the arrow keys to navigate Birthday Fish trough",
+    "hordes of hungry kids.",
+    "Above all, beware of the birthday boss man!!", 
     "EAT OR BE EATEN!"
   ];
 }
@@ -1014,7 +1014,7 @@ function Menu(gameState) {
   });
   this.buttons.push(infoBtn);
 
-  this.title = "Fadry Fish";
+  this.title = "Birthday Fish";
 }
 
 Menu.prototype.draw = function() {
