@@ -907,7 +907,7 @@ function Info(gameState) {
   this.text = [
     "Use the arrow keys to navigate Birthday Fish trough",
     "hordes of hungry kids.",
-    "Above all, beware of the birthday boss man!!", 
+    "Above all, beware of the big boss man!!", 
     "EAT OR BE EATEN!"
   ];
 }
