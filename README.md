@@ -1,2 +1,2 @@
 # fish
-eat the kids. Javascript game build with p5.js
+eat the kids. Javascript game built with love and p5.js. Thanks Jef! <3
